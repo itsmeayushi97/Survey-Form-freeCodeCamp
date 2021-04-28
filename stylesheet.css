@@ -1,0 +1,41 @@
+body {
+  font-family: 'Anaheim';
+  font-size: 1.3em;
+}
+#outside {
+  background-color: lightgoldenrodyellow;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+h1 {
+  font-size: 1.5em;
+  text-align: center;
+  text-transform: capitalize;
+}
+form {
+ margin: 0 auto;
+  width: 75%;
+  padding: 2em;
+  border: 2px solid #CCC;
+  border-radius: 2em;
+}
+.button {
+   padding-left: 60px;
+  }
+
+button {
+  margin: .5em;
+  font-size: 1em;
+  text-transform: capitalize;
+  background-color: indigo;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 9px;
+  
+}
+
+#submitbutton {
+  display: flex; 
+  justify-content: center;
+}
